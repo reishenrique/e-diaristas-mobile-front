@@ -4,7 +4,7 @@
 
 - Front-end
 
-Front-end desenvolvida em React e Next.js
+Front-end desenvolvida em React,Next.js e Typescript
 
 - Mobile
 
